@@ -37,8 +37,20 @@
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
     },
     {
-      "ItemId": "3a2f48db-4d75-449c-84b8-7357092f44cf",
+      "ItemId": "c4896a4c-6bb9-492d-a143-d9ab5a2f2921",
       "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "bc06179e-8552-4da5-8625-1433cfac49e0",
+      "PreviousItemId": "c4896a4c-6bb9-492d-a143-d9ab5a2f2921"
+    },
+    {
+      "ItemId": "2a06c31f-27cb-4565-9e86-72139076d4c5",
+      "PreviousItemId": "bc06179e-8552-4da5-8625-1433cfac49e0"
+    },
+    {
+      "ItemId": "3a2f48db-4d75-449c-84b8-7357092f44cf",
+      "PreviousItemId": "2a06c31f-27cb-4565-9e86-72139076d4c5"
     }
   ],
   "IconResourcesKeys": [],
