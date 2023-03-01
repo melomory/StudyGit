@@ -66,6 +66,14 @@
       "EntityGuid": "243c2d26-f5f7-495f-9faf-951d91215c77",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "cc5e3ad0-381a-483a-aa8e-ed3a3c5e7f61",
+      "Name": "Note",
+      "Code": "Note",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "cb47411b-3ad2-43b6-915c-ec7e63ea7ed0"
     }
   ],
   "PublicStructures": [],
